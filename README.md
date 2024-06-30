@@ -3,3 +3,4 @@ you need mysql database which should be running as a local host
 you need two data base user and subscriptions 
 in user: id,name,email,password
 in subscriptions: id,name,email,order_id,payment_id,subscriptuion_status,expiry_date
+change API KEY with your GOOGLE API key
